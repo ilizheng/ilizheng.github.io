@@ -17,7 +17,7 @@
 
 ## Skills
 - Microsoft Office (Word, Excel, PPT)
-- $\LaTeX$
+- $ \LaTeX $ , $ e^{i \pi} + 1 = 0 $
 - English
 - Programming
 - Linux
