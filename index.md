@@ -17,7 +17,7 @@
 
 ## Skills
 - Microsoft Office (Word, Excel, PPT)
-- ![](http://latex.codecogs.com/gif.latex?\\LaTeX : e^{i \pi} +1 = 0)
+- ![](http://latex.codecogs.com/gif.latex? LaTeX : e^{i \pi} +1 = 0)
 - English
 - Programming
 - Linux
@@ -27,7 +27,7 @@
 - English
 - Computer
 - OS
-- <img src="http://latex.codecogs.com/gif.latex?\\LaTeX : e^{i \pi} +1 = 0" />
+- <img src="http://latex.codecogs.com/gif.latex? LaTeX : e^{i \pi} +1 = 0" />
 
 ## Honors
 - Prize
