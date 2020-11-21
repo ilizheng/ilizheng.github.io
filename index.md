@@ -27,6 +27,7 @@
 - English
 - Computer
 - OS
+- <img src="http://latex.codecogs.com/gif.latex?\\LaTeX : e^{i \pi} +1 = 0" />
 
 ## Honors
 - Prize
