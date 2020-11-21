@@ -17,8 +17,7 @@
 
 ## Skills
 - Microsoft Office (Word, Excel, PPT)
-- $ \LaTeX $ , $ e^{i \pi} + 1 = 0 $
-- ![](http://latex.codecogs.com/gif.latex?\\LaTeX : e^{i \\pi} +1 = 0)
+- ![](http://latex.codecogs.com/gif.latex?\\LaTeX : e^{i \pi} +1 = 0)
 - English
 - Programming
 - Linux
