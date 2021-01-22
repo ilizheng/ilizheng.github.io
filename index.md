@@ -4,16 +4,19 @@
 
 - Phone: +86 13801380038
 - SMS: +1 (803) 1111111
-;+1 (469) 1111111
-;to
-;+1 (803) 1111111
-;where you have been
+<!--
++1 (469) 1111111
+to
++1 (803) 1111111
+where you have been
+the symbol ";" does not work
+-->
 - Email: me@example.com
 
 ## Personal
 - li, zheng
 - Dog
-;Monkey2Dog
+<!--Monkey2Dog-->
 - https://ilizheng.github.io
 
 ## Education
