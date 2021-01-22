@@ -3,12 +3,17 @@
 ## Contact
 
 - Phone: +86 13801380038
-- SMS: +1 (469) 1111111
+- SMS: +1 (803) 1111111
+;+1 (469) 1111111
+;to
+;+1 (803) 1111111
+;where you have been
 - Email: me@example.com
 
 ## Personal
 - li, zheng
-- Monkey
+- Dog
+;Monkey2Dog
 - https://ilizheng.github.io
 
 ## Education
@@ -34,8 +39,9 @@
 
 ## Professional
 ### EDU
-- 2018.8-Now, Teaching *
+- 2018.8-Now, Teaching math
 
 ## About ME
 - To love oneself is the beginning of a lifelong romance.
+- I can still use this sentence.
 
