@@ -5,8 +5,7 @@
 - Phone: +86 13801380038
 - SMS: +1 (803) 1111111
 <!--
-+1 (469) 1111111
-to
+Delete the old one.
 +1 (803) 1111111
 where you have been
 the symbol ";" does not work
@@ -15,8 +14,6 @@ the symbol ";" does not work
 
 ## Personal
 - li, zheng
-- Dog
-<!--Monkey2Dog-->
 - https://ilizheng.github.io
 
 ## Education
@@ -46,5 +43,7 @@ the symbol ";" does not work
 
 ## About ME
 - To love oneself is the beginning of a lifelong romance.
-- I can still use this sentence.
+- I'm always here, and you?
 
+mdnice - a markdown editor for blogs and wechat official accounts. It's convenient to write math formulas.
+overleaf - an online LaTeX editor and repository for tex source 
