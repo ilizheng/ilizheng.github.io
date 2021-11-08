@@ -35,7 +35,7 @@ Delete the Monkey
 - English
 - Computer
 - OS
-- <img src="http://latex.codecogs.com/gif.latex? LaTeX : e^{i \pi} +1 = 0" />
+- <img src="http://latex.codecogs.com/gif.latex? LaTeX : e^{i \theta}= \cos\theta +i \sin \theta" />
 
 ## Honors
 - Prize
@@ -48,8 +48,8 @@ Delete the Monkey
 - To love oneself is the beginning of a lifelong romance.
 - I'm always here, and you?
 
-mdnice - a markdown editor for blogs and wechat official accounts. It's convenient to write math formulas.
 
-overleaf - an online LaTeX editor and repository for tex source 
-
-slager.cn - overleaf in Chinese
+## Some tools
+- mdnice - a markdown editor for blogs and wechat official accounts. It's convenient to write math formulas.
+- overleaf - an online LaTeX editor and repository for tex source 
+- slager.cn - overleaf in Chinese
