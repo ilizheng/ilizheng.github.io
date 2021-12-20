@@ -11,11 +11,11 @@
 - Fractional PDEs and Phase-Field model: Numerical Methods and Applications
 
 ## Education
-- 2018.6 Ph.D., Computational Mathematics, School of Mathematical Sciences, East China Normal University; 
-- 2011.6 B.S., Information and Computing Sciences, School of Mathematics, Shandong University
+- 2018.6 : Ph.D., Computational Mathematics, School of Mathematical Sciences, East China Normal University; 
+- 2011.6 : B.S., Information and Computing Sciences, School of Mathematics, Shandong University
 
 ## Visiting Experience
-2016.1-2017.1 Department of Mathematics, University of South Carolina
+2016.1-2017.1 : Department of Mathematics, University of South Carolina
 
 ## Publications
 ### Journal Papers
@@ -31,4 +31,4 @@
 - NSFC No. 11201153, Participant
 
 ## Work Experience
-- 2018.6-Present Instructor, Shanghai Maritime University
+- 2018.6-Present : Instructor, Shanghai Maritime University
