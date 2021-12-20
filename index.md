@@ -5,7 +5,6 @@
 - Email: ilizheng@msn.com
 
 ## Research
-
 - Finite Element Method: A priori error estimates, A posteriori error estimates, Adaptivity
 - PDE-constrained Optimization: Numerical analysis, Optimization algorithms
 - Fractional PDEs and Phase-Field model: Numerical Methods and Applications
@@ -21,6 +20,7 @@
 ### Journal Papers
 - A space-time fractional phase-field model with tunable sharpness and decay behavior and its efficient numerical simulation, J.Comput.Phys. 347 (2017) 20-38.
 - A variable-order fractional differential equation model of shape memory polymers, Chaos Solitons Fractals 102 (2017) 473-485.
+
 ### Preprints
 - 1
 - 2
