@@ -1,55 +1,34 @@
-# CV
+# Li, Zheng
 
 ## Contact
-
-- Phone: +86 xxx xxxx xxxx
-- SMS: +1 (803) xxx xxxx
-<!--
-Delete the old one.
-+1 (803) 1111111
-where you have been
-the symbol ";" does not work
--->
+- Phone: (+86)188-1755-7695
 - Email: ilizheng@msn.com
 
-## Personal
-- li, zheng
-<!--
-Delete the Monkey
--->
-- https://ilizheng.github.io
+## Research
+
+- Finite Element Method: A priori error estimates, A posteriori error estimates, Adaptivity
+- PDE-constrained Optimization: Numerical analysis, Optimization algorithms
+- Fractional PDEs and Phase-Field model: Numerical Methods and Applications
 
 ## Education
-- B.S. 2007-2011, Shandong University
-- Ph.D. 2011-2018, East China Normal University
+- 2018.6 Ph.D., Computational Mathematics, School of Mathematical Sciences, East China Normal University; 
+- 2011.6 B.S., Information and Computing Sciences, School of Mathematics, Shandong University
 
-## Skills
-- Microsoft Office (Word, Excel, PPT)
-- ![](http://latex.codecogs.com/gif.latex? LaTeX : e^{i \pi} +1 = 0)
-- English
-- Programming
-- Linux
+## Visiting Experience
+2016.1-2017.1 Department of Mathematics, University of South Carolina
 
-## Interests
-- Math
-- English
-- Computer
-- OS
-- <img src="http://latex.codecogs.com/gif.latex? LaTeX : e^{i \theta}= \cos\theta +i \sin \theta" />
+## Publications
+### Journal Papers
+- A space-time fractional phase-field model with tunable sharpness and decay behavior and its efficient numerical simulation, J.Comput.Phys. 347 (2017) 20-38.
+- A variable-order fractional differential equation model of shape memory polymers, Chaos Solitons Fractals 102 (2017) 473-485.
+### Preprints
+- 1
+- 2
+- 3
 
-## Honors
-- Prize
+## Grants
+- NSFC No. 11571115, Participant
+- NSFC No. 11201153, Participant
 
-## Professional
-### EDU
-- 2018.8-Now, Teaching math
-
-## About ME
-- To love oneself is the beginning of a lifelong romance.
-- I'm always here, and you?
-
-
-## Some tools
-- mdnice - a markdown editor for blogs and wechat official accounts. It's convenient to write math formulas.
-- overleaf - an online LaTeX editor and repository for tex source 
-- slager.cn - overleaf in Chinese
+## Work Experience
+- 2018.6-Present Instructor, Shanghai Maritime University
