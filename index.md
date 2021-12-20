@@ -2,15 +2,15 @@
 
 ## Contact
 
-- Phone: +86 13801380038
-- SMS: +1 (803) 1111111
+- Phone: +86 xxx xxxx xxxx
+- SMS: +1 (803) xxx xxxx
 <!--
 Delete the old one.
 +1 (803) 1111111
 where you have been
 the symbol ";" does not work
 -->
-- Email: me@example.com
+- Email: ilizheng@msn.com
 
 ## Personal
 - li, zheng
@@ -20,8 +20,8 @@ Delete the Monkey
 - https://ilizheng.github.io
 
 ## Education
-- B.S. 2007-2011
-- Ph.D. 2011-2018
+- B.S. 2007-2011, Shandong University
+- Ph.D. 2011-2018, East China Normal University
 
 ## Skills
 - Microsoft Office (Word, Excel, PPT)
