@@ -32,3 +32,10 @@
 
 ## Work Experience
 - 2018.6-Present : Instructor, Shanghai Maritime University
+
+## Teaching
+- Numerical Methods for Partial Differential Equations
+- Numerical Analysis
+- Probability and Statistics
+- Linear Algebra
+- Mathematical Experiments
