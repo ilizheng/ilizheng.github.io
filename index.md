@@ -10,7 +10,7 @@
 - Fractional PDEs and Phase-Field model: Numerical Methods and Applications
 
 ## Education
-- 2018.6 : Ph.D., Computational Mathematics, School of Mathematical Sciences, East China Normal University; 
+- 2018.6 : Ph.D., Computational Mathematics, School of Mathematical Sciences, East China Normal University
 - 2011.6 : B.S., Information and Computing Sciences, School of Mathematics, Shandong University
 
 ## Visiting Experience
