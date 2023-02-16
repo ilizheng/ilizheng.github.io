@@ -31,7 +31,7 @@
 - NSFC No. 11201153, Participant
 
 ## Work Experience
-- 2018.6-Present : Instructor, Shanghai Maritime University
+- 2018-2022 : Instructor, Shanghai Maritime University
 
 ## Teaching
 - Numerical Methods for Partial Differential Equations
