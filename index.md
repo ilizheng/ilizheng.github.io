@@ -34,8 +34,9 @@
 - NSFC No. xxxxxxxx, Participant
 
 ## Teaching
-- Numerical Methods for Partial Differential Equations
+- Numerical Methods for PDEs
 - Numerical Analysis
 - Probability and Statistics
 - Linear Algebra
 - Mathematical Experiments
+- Advanced Mathematics
