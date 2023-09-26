@@ -15,15 +15,15 @@
 - 2011.6: B.S., Information and Computing Sciences, School of Mathematics, Shandong University
 
 ## Work & Visiting Experiences
-- 2016-2017: Department of Mathematics, University of South Carolina
-- 2018-2022: Instructor, Shanghai Maritime University
 - 2023-now: Postdoc, Shanghai Jiao Tong University
+- 2018-2022: Instructor, Shanghai Maritime University
+- 2016-2017: Department of Mathematics, University of South Carolina
 
 ## Publications
 ### Preprints
-- 1 Not listed 
-- 2 Not listed 
-- 3 Not listed 
+- 1 arXiv xxxx.xxxxx
+- 2 arXiv xxxx.xxxxx
+- 3 arXiv xxxx.xxxxx
 
 ### Journal Papers
 - A space-time fractional phase-field model with tunable sharpness and decay behavior and its efficient numerical simulation, J.Comput.Phys. 347 (2017) 20-38.
