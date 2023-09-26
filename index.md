@@ -4,17 +4,20 @@
 - Phone: (+86)188-1755-7695
 - Email: ilizheng@msn.com
 
-## Research
-- Finite Element Method: A priori error estimates, A posteriori error estimates, Adaptivity
-- PDE-constrained Optimization: Numerical analysis, Optimization algorithms
-- Fractional PDEs and Phase-Field model: Numerical Methods and Applications
+## Research interests
+- Finite element method: a priori error estimates, a posteriori error estimates, adaptivity
+- PDE-constrained optimization: numerical analysis, optimization algorithms
+- Fractional PDEs and phase-field model: numerical methods and applications
+- Neural networks for solving PDEs
 
 ## Education
-- 2018.6 : Ph.D., Computational Mathematics, School of Mathematical Sciences, East China Normal University
-- 2011.6 : B.S., Information and Computing Sciences, School of Mathematics, Shandong University
+- 2018.6: Ph.D., Computational Mathematics, School of Mathematical Sciences, East China Normal University
+- 2011.6: B.S., Information and Computing Sciences, School of Mathematics, Shandong University
 
-## Visiting Experience
-2016.1-2017.1 : Department of Mathematics, University of South Carolina
+## Work & Visiting Experiences
+- 2016-2017: Department of Mathematics, University of South Carolina
+- 2018-2022: Instructor, Shanghai Maritime University
+- 2023-now: Postdoc, Shanghai Jiao Tong University
 
 ## Publications
 ### Preprints
@@ -27,11 +30,8 @@
 - A variable-order fractional differential equation model of shape memory polymers, Chaos Solitons Fractals 102 (2017) 473-485.
 
 ## Grants
-- NSFC No. 11571115, Participant
-- NSFC No. 11201153, Participant
-
-## Work Experience
-- 2018-2022 : Instructor, Shanghai Maritime University
+- NSFC No. xxxxxxxx, Participant
+- NSFC No. xxxxxxxx, Participant
 
 ## Teaching
 - Numerical Methods for Partial Differential Equations
