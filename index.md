@@ -15,8 +15,8 @@
 - 2011.6: B.S., Information and Computing Sciences, School of Mathematics, Shandong University
 
 ## Work & Visiting Experiences
-- 2023-now: Postdoc, Shanghai Jiao Tong University
-- 2018-2022: Instructor, Shanghai Maritime University
+- 2023-now: Postdoc, School of Aeronautics and Astronautics, Shanghai Jiao Tong University
+- 2018-2022: Instructor, College of Arts and Sciences, Shanghai Maritime University
 - 2016-2017: Department of Mathematics, University of South Carolina
 
 ## Publications
