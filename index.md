@@ -30,8 +30,8 @@
 1. A variable-order fractional differential equation model of shape memory polymers, Chaos Solitons Fractals 102 (2017) 473-485.
 
 ## Grants
-2. NSFC No. xxxxxxxx, Participant
-1. NSFC No. xxxxxxxx, Participant
+2. NSFC No. xxxxxxxx, A011701, 2016-01---2019-12, Participant
+1. NSFC No. xxxxxxxx, A011701, 2013-01---2015-12, Participant
 
 ## Teaching
 - Numerical Methods for PDEs
