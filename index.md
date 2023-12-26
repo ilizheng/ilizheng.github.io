@@ -22,8 +22,16 @@
 ## Publications
 ### Preprints
 1. arXiv xxxx.xxxxx
-2. arXiv xxxx.xxxxx
+   - [X] xxxx
+   - [ ] xxxx
+3. arXiv xxxx.xxxxx
+   1. xxxx
+   2. xxxx
+   3. xxxx
 1. arXiv xxxx.xxxxx
+    1. xxxx
+    2. xxxx
+    3. xxxx
 
 ### Journal Papers
 1. A space-time fractional phase-field model with tunable sharpness and decay behavior and its efficient numerical simulation, _Journal of Computational Physics_ 347 (2017): 20-38. [DOI](https://doi.org/10.1016/j.jcp.2017.06.036 "lizheng") 
