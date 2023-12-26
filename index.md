@@ -26,8 +26,8 @@
 1. arXiv xxxx.xxxxx
 
 ### Journal Papers
-1. A space-time fractional phase-field model with tunable sharpness and decay behavior and its efficient numerical simulation, Journal of Computational Physics 347 (2017): 20-38.
-1. A variable-order fractional differential equation model of shape memory polymers, Chaos, Solitons & Fractals 102 (2017): 473-485.
+1. A space-time fractional phase-field model with tunable sharpness and decay behavior and its efficient numerical simulation, _Journal of Computational Physics_ 347 (2017): 20-38.
+1. A variable-order fractional differential equation model of shape memory polymers, _Chaos, Solitons & Fractals_ 102 (2017): 473-485.
 
 ## Grants
 1. NSFC No. xxxxxxxx, A011701, 201601-201912, Participant
