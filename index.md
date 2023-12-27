@@ -17,7 +17,7 @@
 ## Work & Visiting Experiences
 - 2023-now: Postdoc, [School of Aeronautics and Astronautics](https://www.aero.sjtu.edu.cn/ "SAA"), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/ "SJTU")
 - 2018-2022: Instructor, [College of Arts and Sciences](wlxy.shmtu.edu.cn/), [Shanghai Maritime University](www.shmtu.edu.cn/ "SHMTU")
-- 2016-2017: Visiting Scholar, [Department of Mathematics](http://math.sc.edu "Math") \& [Interdisciplinary Mathematics Institute](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/research/imi/index.php "Historic IMI"), [University of South Carolina](https://sc.edu "UofSC")
+- 2016-2017: Visiting Scholar, [Department of Mathematics](http://math.sc.edu "Math") & [Interdisciplinary Mathematics Institute](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/research/imi/index.php "Historic IMI"), [University of South Carolina](https://sc.edu "UofSC")
 
 ## Publications
 ### Preprints
