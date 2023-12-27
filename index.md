@@ -11,13 +11,13 @@
 - Neural networks for solving PDEs
 
 ## Education
-- 2018.6: Ph.D., Computational Mathematics, School of Mathematical Sciences, East China Normal University
-- 2011.6: B.S., Information and Computing Sciences, School of Mathematics, Shandong University
+- 2018.6: Ph.D., Computational Mathematics, [School of Mathematical Sciences](https://math.ecnu.edu.cn/ "Math"), [East China Normal University](https://www.ecnu.edu.cn/ "ECNU")
+- 2011.6: B.S., Information and Computing Sciences, [School of Mathematics](https://www.math.sdu.edu.cn/ "Math"), [Shandong University](https://www.sdu.edu.cn/ "SDU")
 
 ## Work & Visiting Experiences
-- 2023-now: Postdoc, School of Aeronautics and Astronautics, Shanghai Jiao Tong University
-- 2018-2022: Instructor, College of Arts and Sciences, Shanghai Maritime University
-- 2016-2017: Department of Mathematics, University of South Carolina
+- 2023-now: Postdoc, [School of Aeronautics and Astronautics](https://www.aero.sjtu.edu.cn/ "SAA"), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/ "SJTU")
+- 2018-2022: Instructor, [College of Arts and Sciences](wlxy.shmtu.edu.cn/), [Shanghai Maritime University](www.shmtu.edu.cn/ "SHMTU")
+- 2016-2017: Visiting Scholar, [Department of Mathematics](https://math.sc.edu "Math") \& [Interdisciplinary Mathematics Institute](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/research/imi/index.php "Historic IMI"), [University of South Carolina](https://sc.edu "UofSC")
 
 ## Publications
 ### Preprints
