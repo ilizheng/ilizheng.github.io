@@ -1,8 +1,9 @@
 # 李政 (Li, Zheng)
 
 ## Contact
-- Phone: (+86)188-1755-7695
+- Phone: 
 - Email: ilizheng@msn.com
+- Address:
 
 ## Research interests
 - Finite element method: a priori error estimates, a posteriori error estimates, adaptivity
