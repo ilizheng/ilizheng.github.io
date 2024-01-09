@@ -1,9 +1,9 @@
 # 李政 (Li, Zheng)
 
 ## Contacts
-- Phone: 
+- Phone: (+86) 188 1755 7695
 - Email: ilizheng@msn.com
-- Address:
+- Address: School of Aeronautics & Astronautics, Shanghai Jiao Tong University, 800 Dongchuan RD. Minhang District, Shanghai 200240, China
 
 ## Research interests
 - Finite element method: a priori error estimates, a posteriori error estimates, adaptivity
@@ -16,7 +16,7 @@
 - 2011.6: B.S., Information and Computing Sciences, [School of Mathematics](https://www.math.sdu.edu.cn/ "Math@SDU"), [Shandong University](https://www.sdu.edu.cn/ "SDU")
 
 ## Work & Visiting Experiences
-- 2023-now: Postdoc, [School of Aeronautics and Astronautics](https://www.aero.sjtu.edu.cn/ "SAA"), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/ "SJTU")
+- 2023-now: Postdoctoral Scholar, [School of Aeronautics and Astronautics](https://www.aero.sjtu.edu.cn/ "SAA"), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/ "SJTU")
 - 2018-2022: Instructor, [College of Arts and Sciences](wlxy.shmtu.edu.cn/), [Shanghai Maritime University](www.shmtu.edu.cn/)
 - 2016-2017: Visiting Scholar, [Department of Mathematics](http://math.sc.edu "Math") & [Interdisciplinary Mathematics Institute](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/research/imi/index.php "Historic IMI"), [University of South Carolina](https://sc.edu "UofSC")
 
