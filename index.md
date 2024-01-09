@@ -15,7 +15,7 @@
 - 2018.6: Ph.D., Computational Mathematics, [School of Mathematical Sciences](https://math.ecnu.edu.cn/ "Math@ECNU"), [East China Normal University](https://www.ecnu.edu.cn/ "ECNU")
 - 2011.6: B.S., Information and Computing Sciences, [School of Mathematics](https://www.math.sdu.edu.cn/ "Math@SDU"), [Shandong University](https://www.sdu.edu.cn/ "SDU")
 
-## Work & Visiting Experiences
+## Positions & Activities 
 - 2023-now: Postdoctoral Scholar, [School of Aeronautics and Astronautics](https://www.aero.sjtu.edu.cn/ "SAA"), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/ "SJTU")
 - 2018-2022: Instructor, [College of Arts and Sciences](wlxy.shmtu.edu.cn/), [Shanghai Maritime University](www.shmtu.edu.cn/)
 - 2016-2017: Visiting Scholar, [Department of Mathematics](http://math.sc.edu "Math") & [Interdisciplinary Mathematics Institute](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/research/imi/index.php "Historic IMI"), [University of South Carolina](https://sc.edu "UofSC")
