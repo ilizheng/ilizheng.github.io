@@ -22,7 +22,7 @@
 
 ## Publications
 ### Preprints
-- [X] 1. arXiv xxxx.xxxxx
+- [ ] 1. arXiv xxxx.xxxxx
 - [ ] 2. arXiv xxxx.xxxxx
 - [ ] 3. arXiv xxxx.xxxxx
 
