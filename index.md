@@ -23,8 +23,9 @@
 ## Publications
 ### Preprints
 - [ ] 1. arXiv xxxx.xxxxx
-- [ ] 2. arXiv xxxx.xxxxx
-- [ ] 3. arXiv xxxx.xxxxx
+- [ ] 2. arXiv:[2402.05067](https://arxiv.org/abs/2402.05067)
+- [ ] 3. arXiv:[2206.06226](https://arxiv.org/abs/2206.06226)
+
 
 ### Journal Papers
 1. _Matrices Whose Powers Are Eventually Triangular_, FILOMAT 37, no. 26 (2023): 8867--8885. [DOI](https://doi.org/10.2298/FIL2326867M)
