@@ -18,7 +18,7 @@
 ## Positions & Activities 
 - 2023-now: Postdoctoral Scholar, [School of Aeronautics and Astronautics](https://www.aero.sjtu.edu.cn/ "SAA"), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/ "SJTU")
 - 2018-2022: Instructor, [College of Arts and Sciences](wlxy.shmtu.edu.cn/ "CAS"), [Shanghai Maritime University](www.shmtu.edu.cn/ "SHMTU")
-- 2016-2017: Visiting Scholar, [Department of Mathematics](https://www.sc.edu/study/colleges_schools/artsandsciences/mathematics/index.php <!--http://math.sc.edu--> "Math") & [Interdisciplinary Mathematics Institute](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/research/imi/index.php "Historic IMI"), [University of South Carolina](https://sc.edu "UofSC")
+- 2016-2017: Visiting Scholar, [Department of Mathematics](https://www.sc.edu/study/colleges_schools/artsandsciences/mathematics/index.php  "Math") & [Interdisciplinary Mathematics Institute](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/research/imi/index.php "Historic IMI"), [University of South Carolina](https://sc.edu "UofSC") <!--http://math.sc.edu-->
 
 ## Publications
 ### Preprints
