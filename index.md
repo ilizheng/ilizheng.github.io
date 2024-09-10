@@ -27,10 +27,10 @@
 
 
 ### Journal Papers
-1. _A parallel domain decomposition method for the fully-mixed Stokes-dual-permeability fluid flow model with Beavers-Joseph interface conditions_, COMMUN COMPUT PHYS, 29-May-2024. [DOI](https://doi.org/10.4208/cicp.OA-2023-0258)
-3. _Matrices Whose Powers Are Eventually Triangular_, FILOMAT 37, no. 26 (2023): 8867--8885. [DOI](https://doi.org/10.2298/FIL2326867M)
-2. _A space-time fractional phase-field model with tunable sharpness and decay behavior and its efficient numerical simulation_, J COMPUT PHYS 347 (2017): 20--38. [DOI](https://doi.org/10.1016/j.jcp.2017.06.036 "lizheng") 
-1. _A variable-order fractional differential equation model of shape memory polymers_, CHAOS SOLITON FRACT 102 (2017): 473--485. [DOI](https://doi.org/10.1016/j.chaos.2017.04.042 "lizheng")
+1. _A parallel domain decomposition method for the fully-mixed Stokes-dual-permeability fluid flow model with Beavers-Joseph interface conditions_, COMMUN COMPUT PHYS, 29-May-2024. [DOI](https://doi.org/10.4208/cicp.OA-2023-0258) <!-- CiteScore（Q1), JIF(Q1), JCI(Q1), 中科院SCI分区（一区）, 中国数学会(T1) -->
+3. _Matrices Whose Powers Are Eventually Triangular_, FILOMAT 37, no. 26 (2023): 8867--8885. [DOI](https://doi.org/10.2298/FIL2326867M) <!-- CiteScore（Q3), JIF(Q2), JCI(Q3), 中科院SCI分区（四区） -->
+2. _A space-time fractional phase-field model with tunable sharpness and decay behavior and its efficient numerical simulation_, J COMPUT PHYS 347 (2017): 20--38. [DOI](https://doi.org/10.1016/j.jcp.2017.06.036 "lizheng")  <!-- CiteScore（Q1), JIF(Q1), JCI(Q1), 中科院SCI分区（一区，Top）, 中国数学会(T1) -->
+1. _A variable-order fractional differential equation model of shape memory polymers_, CHAOS SOLITON FRACT 102 (2017): 473--485. [DOI](https://doi.org/10.1016/j.chaos.2017.04.042 "lizheng") <!-- CiteScore（Q1), JIF(Q1), JCI(Q1), 中科院SCI分区（一区，Top） -->
 
 ## Grants
 1. NSFC No. xxxxxxxx, A011701, 201601-201912, Participant
