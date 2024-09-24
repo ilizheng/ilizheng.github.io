@@ -6,10 +6,10 @@
 - Address: School of Aeronautics & Astronautics, Shanghai Jiao Tong University, 800 Dongchuan RD. Minhang District, Shanghai 200240, China
 
 ## Research interests
+- Machine Learning: Neural networks algorithms and analysis for solving PDEs
 - Finite element method: a priori error estimates, a posteriori error estimates, adaptivity
 - PDE-constrained optimization: numerical analysis, optimization algorithms
-- Fractional PDEs and phase-field model: numerical methods and applications
-- Neural networks for solving PDEs
+- Phase-field model and fractional PDEs: numerical methods, inverse problems and applications
 
 ## Education
 - 2018.6: Ph.D., Computational Mathematics, [School of Mathematical Sciences](https://math.ecnu.edu.cn/ "Math@ECNU"), [East China Normal University](https://www.ecnu.edu.cn/ "ECNU")
