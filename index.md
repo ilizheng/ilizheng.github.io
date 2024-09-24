@@ -7,8 +7,8 @@
 
 ## Research interests
 - Finite element method: a priori error estimates, a posteriori error estimates, adaptivity
-* PDE-constrained optimization: numerical analysis, optimization algorithms
-+ Fractional PDEs and phase-field model: numerical methods and applications
+- PDE-constrained optimization: numerical analysis, optimization algorithms
+- Fractional PDEs and phase-field model: numerical methods and applications
 - Neural networks for solving PDEs
 
 ## Education
@@ -40,7 +40,7 @@
 - Numerical Methods for PDEs
 - Numerical Analysis
 - Numerical Optimization
-+ Probability and Statistics
-+ Linear Algebra
-+ Advanced Mathematics
-* Mathematical Experiments
+* Probability and Statistics
+* Linear Algebra
+* Advanced Mathematics
++ Mathematical Experiments
