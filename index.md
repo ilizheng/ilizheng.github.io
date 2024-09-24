@@ -37,7 +37,7 @@
 1. NSFC No. xxxxxxxx, A011701, 201301-201512, Participant
 
 ## Teaching
-- Numerical Methods for PDEs
+- Numerical Methods for Differential Equations
 - Numerical Analysis
 - Numerical Optimization
 * Probability and Statistics
