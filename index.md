@@ -38,8 +38,9 @@
 
 ## Teaching
 - Numerical Methods for PDEs
-* Numerical Analysis
+- Numerical Analysis
+- Numerical Optimization
 + Probability and Statistics
 + Linear Algebra
++ Advanced Mathematics
 * Mathematical Experiments
-- Advanced Mathematics
