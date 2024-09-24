@@ -43,4 +43,4 @@
 * Probability and Statistics
 * Linear Algebra
 * Advanced Mathematics
-+ Mathematical Experiments
++ Mathematical Modeling and Mathematical Experiments
