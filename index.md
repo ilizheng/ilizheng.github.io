@@ -45,6 +45,7 @@
 - Numerical Methods for Differential Equations
 - Numerical Analysis
 - Numerical Optimization
+  
 ### Common Courses
 * Probability and Statistics
 * Linear Algebra
