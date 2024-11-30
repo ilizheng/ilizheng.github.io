@@ -1,7 +1,6 @@
 # 李政 (LI, Zheng)
 
 ## Contacts
-- Phone: (+86) 188 1755 7695
 - Email: ilizheng@msn.com
 - Address: School of Aeronautics & Astronautics, Shanghai Jiao Tong University, 800 Dongchuan RD. Minhang District, Shanghai 200240, China
 
