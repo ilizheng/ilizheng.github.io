@@ -27,7 +27,7 @@
 
 
 ### Journal Papers
-1. _A new coupled subdiffusion model and its partitioned time-stepping algorithm_, accepted.<!-- Journal of Computational Mathematics J COMPUT MATH: CiteScore（Q3), JIF(Q2), JCI(Q3), 中科院SCI分区（2023四四, 2022四三）, 中国数学会(T1) -->
+1. _A new coupled subdiffusion model and its partitioned time-stepping algorithm_, Journal of Computational Mathematics, Online, [DOI](https://doi.org/10.4208/jcm.2504-m2025-0005 ), 2025-05-09.<!-- Journal of Computational Mathematics J COMPUT MATH: CiteScore（Q3), JIF(Q2), JCI(Q3), 中科院SCI分区（2023四四, 2022四三）, 中国数学会(T1) -->
 4. _A parallel domain decomposition method for the fully-mixed Stokes-dual-permeability fluid flow model with Beavers-Joseph interface conditions_,  Communications in Computational Physics, 36:2 (2024), 551--580. [DOI](https://doi.org/10.4208/cicp.OA-2023-0258) <!-- COMMUN COMPUT PHYS: CiteScore（Q1), JIF(Q1), JCI(Q1), 中科院SCI分区（2022二一, 2023三四, 2024三三）, 中国数学会(T1) -->
 3. _Matrices Whose Powers Are Eventually Triangular_, 	Filomat, 37:26 (2023), 8867--8885. [DOI](https://doi.org/10.2298/FIL2326867M) <!-- FILOMAT: CiteScore（Q3), JIF(Q2), JCI(Q3), 中科院SCI分区（2022四四） -->
 2. _A space-time fractional phase-field model with tunable sharpness and decay behavior and its efficient numerical simulation_, Journal of Computational Physics, 347 (2017), 20--38. [DOI](https://doi.org/10.1016/j.jcp.2017.06.036)  <!-- J COMPUT PHYS: CiteScore（Q1), JIF(Q1), JCI(Q1), 中科院SCI分区（2022二一，Top）, 中国数学会(T1) -->
