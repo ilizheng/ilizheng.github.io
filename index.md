@@ -16,12 +16,11 @@
 - 2007.9-2011.6: B.S., Information and Computing Sciences, [School of Mathematics](https://www.math.sdu.edu.cn/ "Math@SDU"), [Shandong University](https://www.sdu.edu.cn/ "SDU")
 
 ## Positions & Activities 
-- 2023-now: Postdoctoral Scholar/Assistant Researcher, [School of Aeronautics and Astronautics](https://www.aero.sjtu.edu.cn/ "SAA"), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/ "SJTU") <!-- Project: Neural Networks for Solving Partial Differential Equations, Mentor: Associate Prof. Hui Xu -->
-- 2018-2022: Instructor, [College of Arts and Sciences](wlxy.shmtu.edu.cn/ "CAS"), [Shanghai Maritime University](www.shmtu.edu.cn/ "SHMTU")
+- 2023.2-now: Postdoctoral Scholar/Assistant Researcher, [School of Aeronautics and Astronautics](https://www.aero.sjtu.edu.cn/ "SAA"), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/ "SJTU") <!-- Project: Neural Networks for Solving Partial Differential Equations, Mentor: Associate Prof. Hui Xu -->
+- 2018.8-2022.7: Instructor, [College of Arts and Sciences](wlxy.shmtu.edu.cn/ "CAS"), [Shanghai Maritime University](www.shmtu.edu.cn/ "SHMTU")
 
 ## Publications
 ### Preprints
-- [ ] arXiv xxxx.xxxxx
 - [ ] arXiv xxxx.xxxxx
 - [ ] arXiv:[2402.05067](https://arxiv.org/abs/2402.05067)
 
