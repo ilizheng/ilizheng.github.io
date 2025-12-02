@@ -1,4 +1,4 @@
-# 李政 (LI&#x30c; Zhe&#x300;ng)
+# 李政 (Li&#x30c;, Zhe&#x300;ng)
 
 ## Contacts
 - Email: ilizheng@msn.com
